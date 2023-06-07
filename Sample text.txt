@@ -1,4 +1,0 @@
-This is a sample file of shiva 
-
-
-+this is a sample line that i am creating
